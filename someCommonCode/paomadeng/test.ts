@@ -4,5 +4,13 @@
  * @description: 文件描述
  */
 class a{
-    sssss
+    constructor() {
+
+    }
+    sssss;
+    public t(){
+     let  a_1 = "测试1";
+     let  a_2 = "测试2";
+     let  a_3 = "测试3";
+    }
 }
